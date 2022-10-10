@@ -1,8 +1,11 @@
-package chapter1;
+package chapter2;
 
-public class Q2 {
+public class Scanner2 {
     public static void main(String[] args) {
-        int coupon = 144;
+        java.util.Scanner input = new java.util.Scanner(System.in);
+
+        System.out.print("Please enter your coupon piece you have : ");
+        int coupon = input.nextInt();
         int candy = coupon / 10;
         int remainingCoupon = coupon - candy * 10;
         int gumball = remainingCoupon / 3;

@@ -1,15 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fcf508e-4f01-4a58-aded-b23680e3d625" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+    <list default="true" id="1fcf508e-4f01-4a58-aded-b23680e3d625" name="Changes" comment="Added with Scanner class homework.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/Scanner1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/Scanner10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/Scanner2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/Scanner3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/Scanner4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/Scanner5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/Scanner6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/Scanner7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/Scanner8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/Scanner9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter1/Q10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/Q10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter1/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter1/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/Q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter1/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter1/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/Q5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter1/Q7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/Q7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chapter1/Q8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/Q8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter1/Q9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/Q9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,15 +47,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="Q8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.Q8" />
+}]]></component>
+  <component name="RunManager" selected="Application.Q3">
+    <configuration name="Q3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter1.Q3" />
       <module name="HomeWorks" />
       <extension name="coverage">
         <pattern>
@@ -43,9 +68,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter1.Q9" />
+      <module name="HomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scanner10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.Scanner10" />
+      <module name="HomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scanner7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.Scanner7" />
+      <module name="HomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scanner8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.Scanner8" />
+      <module name="HomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q8" />
+        <item itemvalue="Application.Q3" />
+        <item itemvalue="Application.Q9" />
+        <item itemvalue="Application.Scanner10" />
+        <item itemvalue="Application.Scanner8" />
+        <item itemvalue="Application.Scanner7" />
       </list>
     </recent_temporary>
   </component>
@@ -58,6 +139,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664567003283</updated>
     </task>
+    <task id="LOCAL-00001" summary="q8 desiredWeightofDieter değişti">
+      <created>1665407490204</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665407490204</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,5 +159,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="q8 desiredWeightofDieter değişti" />
+    <MESSAGE value="Added with Scanner class homework." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added with Scanner class homework." />
   </component>
 </project>

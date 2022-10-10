@@ -1,12 +1,17 @@
 package chapter1;
 
 public class Q10 {
-    public static void main(String[] args) {
-        int minimumWeight = 110;
-        int heightFt = 7;
-        int heightInch = heightFt * 12;
-        int bodyWeight = minimumWeight + (heightInch % 60) * 5;
 
-        System.out.printf("Height = %d(ft) = Ideal body weight : %d(pound)", heightFt, bodyWeight);
+    public static final int LETHAL_OVERDOSE = 10000;
+
+    public static void main(String[] args) {
+        int caffeineInCoke = 34;
+        int caffeineInCoffee = 160;
+
+        int numberOfCokeToKillPerson = LETHAL_OVERDOSE / caffeineInCoke;
+        int numberOfCoffeeToKillPerson = LETHAL_OVERDOSE / caffeineInCoffee;
+
+        System.out.println("Number of coke can it takes to kill a person : " + numberOfCokeToKillPerson);
+        System.out.println("Number of coffee can it takes to kill a person : " + numberOfCoffeeToKillPerson);
     }
 }

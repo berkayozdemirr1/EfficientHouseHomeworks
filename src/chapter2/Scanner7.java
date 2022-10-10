@@ -1,8 +1,12 @@
-package chapter1;
+package chapter2;
 
-public class Q7 {
+public class Scanner7 {
     public static void main(String[] args) {
-        int seconds = 36789;
+        java.util.Scanner input = new java.util.Scanner(System.in);
+
+        System.out.print("Please enter the seconds : ");
+
+        int seconds = input.nextInt();
 
         int hours = seconds / 3600;
         seconds %= 3600;
