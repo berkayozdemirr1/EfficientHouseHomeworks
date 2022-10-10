@@ -13,7 +13,7 @@ public class Q8 {
         double desiredWeightofDieter = 80;
 
 
-        int safeUseSoda = (int) (((amountSweetenerToKillMice / weightOfMice) * 80) / SWEETENER_FRACTION);
+        int safeUseSoda = (int) (((amountSweetenerToKillMice / weightOfMice) * desiredWeightofDieter) / SWEETENER_FRACTION);
 
         System.out.println("To lose " + (weightOfDieter - desiredWeightofDieter) + " kg ");
         System.out.println("Safe soda limit to have : " + safeUseSoda);
