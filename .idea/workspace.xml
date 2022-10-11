@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fcf508e-4f01-4a58-aded-b23680e3d625" name="Changes" comment="Added with Scanner class homework.">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/Scanner1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/Scanner10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/Scanner2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/Scanner3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/Scanner4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/Scanner5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/Scanner6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/Scanner7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/Scanner8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/Scanner9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter1/Q10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/Q10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter1/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/Q2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chapter1/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/Q3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter1/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/Q4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter1/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/Q5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter1/Q7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/Q7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter1/Q8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/Q8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter1/Q9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/Q9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +29,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Q3">
     <configuration name="Q3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter1.Q3" />
@@ -146,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665407490204</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added with Scanner class homework.">
+      <created>1665424330248</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665424330248</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

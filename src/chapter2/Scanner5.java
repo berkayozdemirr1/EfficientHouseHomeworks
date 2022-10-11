@@ -5,6 +5,6 @@ public class Scanner5 {
         java.util.Scanner input = new java.util.Scanner(System.in);
         System.out.print("Please enter your message : ");
         String mesaj = input.nextLine();
-        System.out.println("Changed message is : " + mesaj.replace("hate", "love"));
+        System.out.println("Changed message is : " + mesaj.replaceFirst("hate", "love"));
     }
 }
