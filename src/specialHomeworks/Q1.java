@@ -17,7 +17,7 @@ public class Q1 {
         getInfo();
     }
 
-    static void getInfo()
+    public static void getInfo()
     {
         System.out.println("Bu program kullanýcý tarafýndan girilen 3 sayýyý küçükten büyüðe göre sýralar.");
         java.util.Scanner input = new java.util.Scanner(System.in);

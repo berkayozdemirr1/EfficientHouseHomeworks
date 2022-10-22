@@ -10,7 +10,7 @@ public class Q2 {
         getInfo();
     }
 
-    static void getInfo()
+    public static void getInfo()
     {
         System.out.println("Bu program kullanýcý tarafýndan girilen 3 sayýdan ortancasýný geri döndürecektir.");
         java.util.Scanner input = new java.util.Scanner(System.in);
@@ -24,7 +24,7 @@ public class Q2 {
         giveMidNumber(sayi1, sayi2, sayi3);
     }
 
-    static void giveMidNumber(int sayi1, int sayi2, int sayi3)
+    public static void giveMidNumber(int sayi1, int sayi2, int sayi3)
     {
         int result;
         if ((sayi3 < sayi1) && (sayi1 < sayi2) || (sayi2 < sayi1) && (sayi1 < sayi3))
@@ -36,7 +36,7 @@ public class Q2 {
         printResult(result);
     }
 
-    static void printResult(int result)
+    public static void printResult(int result)
     {
         System.out.println("Ortanca sayý : " + result);
     }
