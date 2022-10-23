@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fcf508e-4f01-4a58-aded-b23680e3d625" name="Changes" comment="Special Homeworks">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/specialHomeworks/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/specialHomeworks/Q1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/specialHomeworks/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/specialHomeworks/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/specialHomeworks/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/specialHomeworks/Q3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +44,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q3">
+  <component name="RunManager" selected="Application.Q1">
     <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="specialHomeworks.Q1" />
       <module name="HomeWorks" />
@@ -95,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scanner8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.Scanner8" />
+    <configuration name="deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="specialHomeworks.deneme" />
       <module name="HomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter2.*" />
+          <option name="PATTERN" value="specialHomeworks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q3" />
-        <item itemvalue="Application.Q2" />
         <item itemvalue="Application.Q1" />
+        <item itemvalue="Application.Q2" />
+        <item itemvalue="Application.deneme" />
+        <item itemvalue="Application.Q3" />
         <item itemvalue="Application.Scanner10" />
-        <item itemvalue="Application.Scanner8" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666466001036</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Special Homeworks">
+      <created>1666466316721</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666466316721</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

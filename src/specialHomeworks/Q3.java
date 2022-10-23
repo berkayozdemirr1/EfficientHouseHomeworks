@@ -4,8 +4,10 @@ package specialHomeworks;
         metodu yazýnýz ve test ediniz. Metot pozitif için "1" sýfýr için "0" negatif için "-1" döndürecektir.
          */
 
-public class Q3 {
-    public static void main(String[] args) {
+public class Q3
+{
+    public static void main(String[] args)
+    {
         getInfo();
     }
 
