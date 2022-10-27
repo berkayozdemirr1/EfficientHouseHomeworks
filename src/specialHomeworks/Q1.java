@@ -8,6 +8,10 @@ package specialHomeworks;
 
         Giriþ : 10, 20, 30
         Yanýt : 10 < 20 = 20
+
+
+        ÝSÝMLENDÝRMELERE DÝKKAT EDÝLECEK !
+
          */
 
 
@@ -52,8 +56,23 @@ public class Q1
 
     public static void sorting(int a, int b, int c)
     {
-        int mid = (a + b + c) - (enBuyuk(a, b, c) + enKucuk(a, b, c));
+        int min = enKucuk(a, b, c);
+        int max = enBuyuk(a, b, c);
+        int mid = (a + b + c) - (max + min);
 
-        System.out.print(enKucuk(a, b, c) + " " + mid + " " + enBuyuk(a, b, c));
+        display(min, mid, max);
+    }
+
+    public static void display (int min, int mid, int max)
+    {
+        if (min < mid)
+            System.out.printf("%d < %d ", min, mid);
+        else
+            System.out.printf("%d = %d ", min, mid);
+
+        if (mid < max)
+            System.out.printf("< %d", max);
+        else
+            System.out.printf("= %d", max);
     }
 }
