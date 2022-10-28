@@ -11,6 +11,6 @@ public class DailyLoop {
             int remainForSuccess = 10000 - success;
             System.out.printf("%d saat çalýþmalýsýn.%n", remainForSuccess);
         }if (success > 10000)
-            System.out.println("Baþarmak compiler kadar hýzlý deðildir. Unutma. Adým adým ilerlemelisin.");
+            System.out.println("Baþarmak compiler kadar hýzlý olmuyor. Unutma. Adým adým ilerlemelisin.");
     }
 }
