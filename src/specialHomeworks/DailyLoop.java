@@ -1,4 +1,4 @@
-package numberUtil;
+package specialHomeworks;
 
 public class DailyLoop {
     public static void main(String[] args) {
