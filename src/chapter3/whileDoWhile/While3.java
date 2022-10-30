@@ -1,4 +1,4 @@
-package chapter3;
+package chapter3.whileDoWhile;
 
 /*
     Klavyeden sifir girilene kadar girilen degerleri pozitif ve negatif olarak toplayip ekrana bastir.

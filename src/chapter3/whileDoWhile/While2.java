@@ -1,4 +1,8 @@
-package chapter3;
+package chapter3.whileDoWhile;
+
+/*
+    Kullanýcýdan alýnan veriye göre döngü oluþtur.
+*/
 
 public class While2 {
     public static void main(String[] args) {

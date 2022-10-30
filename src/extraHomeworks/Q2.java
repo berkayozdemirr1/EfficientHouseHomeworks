@@ -1,4 +1,4 @@
-package specialHomeworks;
+package extraHomeworks;
 
         /*
         Parametresi ile int türden 3 sayýdan ortancasýna geri dönen mid isimli metodu yazýnýz ve test ediniz.

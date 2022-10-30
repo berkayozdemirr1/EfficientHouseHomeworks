@@ -1,4 +1,4 @@
-package specialHomeworks;
+package extraHomeworks;
 
         /*
         1) Klavyeden alýnan int türden üç sayý arasýndaki büyüklük-küçüklük iliþkisini küçükten büyüðe doðru < ve = sem-

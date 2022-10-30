@@ -1,4 +1,4 @@
-package specialHomeworks;
+package extraHomeworks;
 
         /* Parametresi ile aldýðý int türden bir sayýnýn negatif mi sýfýr mý pozitif mi olduðunu test eden signum isimli
         metodu yazýnýz ve test ediniz. Metot pozitif için "1" sýfýr için "0" negatif için "-1" döndürecektir.
