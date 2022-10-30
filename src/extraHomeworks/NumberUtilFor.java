@@ -8,7 +8,7 @@ public class NumberUtilFor {
 
     public static void test()
     {
-        for (int index = 0; index < 999_999; ++index)
+        for (int index = 0; index < 99_999; ++index)
             if (isArmstrong(index))
                 System.out.printf("%d sayýsý Armstrong sayýdýr.%n", index);
     }
