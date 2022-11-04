@@ -1,4 +1,4 @@
-package chapter3.ForLoop;
+package chapter3.forLoop;
 
 public class For4 {
     public static void main(String[] args)

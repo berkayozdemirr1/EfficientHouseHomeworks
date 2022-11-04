@@ -1,4 +1,4 @@
-package chapter3.ForLoop;
+package chapter3.forLoop;
 
 /*
        Parametresi ile aldýðý int türden bir sayýnýn basamak sayýsýný döndüren countDigits isimli metodu NumberUtil isim
