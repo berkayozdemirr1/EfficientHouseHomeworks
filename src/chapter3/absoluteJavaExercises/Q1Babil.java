@@ -15,7 +15,7 @@ public class Q1Babil {
 
         double g = n / 2;
 
-        System.out.printf("Square root is %f of number %.2f ",giveResult(n, g), n);
+        System.out.printf("Square root is %.2f of number %.2f ",giveResult(n, g), n);
     }
 
     public static double giveResult(double n, double g)
