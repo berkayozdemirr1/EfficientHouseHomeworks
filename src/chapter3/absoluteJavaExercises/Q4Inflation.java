@@ -29,4 +29,6 @@ public class Q4Inflation {
         }
         return cost;
     }
+
+
 }
